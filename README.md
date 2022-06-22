@@ -1,1 +1,1 @@
-# Soft-Quadruped-Robot
+# Soft-Quadruped-Robot-Crawling
